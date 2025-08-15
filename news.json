@@ -6,13 +6,13 @@
         {
           "title": "Manfaat air minum",
           "summary": "Kenapa hidrasi itu penting untuk metabolisme dan performa.",
-          "image": "https://example.com/seimbang1.jpg",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/seimbang1.jpg",
           "url": "https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day"
         },
         {
           "title": "Tips perbanyak minum air putih",
           "summary": "Trik kecil supaya target minum harian tercapai.",
-          "image": "https://example.com/seimbang2.jpg",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/seimbang2.jpg",
           "url": "https://www.medicalnewstoday.com/articles/290814"
         }
       ]
@@ -23,13 +23,13 @@
         {
           "title": "Bersiaps menurunkan berat badan",
           "summary": "Strategi hidrasi saat puasa agar tetap bertenaga.",
-          "image": "https://example.com/puasa1.jpg",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/puasa1.jpg",
           "url": "https://www.health.harvard.edu/blog"
         },
         {
           "title": "Kehilangan berat",
           "summary": "Peran air dalam manajemen berat badan.",
-          "image": "https://example.com/puasa2.jpg",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/puasa2.jpg",
           "url": "https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html"
         }
       ]
