@@ -33,6 +33,23 @@
           "url": "https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html"
         }
       ]
+    },
+    {
+      "title": "SEHAT",
+      "items": [
+        {
+          "title": "Tips menjaga kulit sehat",
+          "summary": "Air membantu menjaga elastisitas kulit.",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/sehat1.jpg",
+          "url": "https://www.healthline.com/nutrition/water-for-skin"
+        },
+        {
+          "title": "Hidrasi dan imun tubuh",
+          "summary": "Peran air dalam mendukung sistem kekebalan tubuh.",
+          "image": "https://raw.githubusercontent.com/ferdyalhafizh/sample-json-file/main/images/sehat2.jpg",
+          "url": "https://www.medicalnewstoday.com/articles/water-and-immune-system"
+        }
+      ]
     }
   ]
 }
